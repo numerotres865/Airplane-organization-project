@@ -1,0 +1,14 @@
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.exe
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.deps.json
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.runtimeconfig.json
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.runtimeconfig.dev.json
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.dll
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\bin\Debug\netcoreapp3.1\Test1 proyecto.pdb
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.csproj.AssemblyReference.cache
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.AssemblyInfoInputs.cache
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.AssemblyInfo.cs
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.csproj.CoreCompileInputs.cache
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.dll
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.pdb
+D:\Etc\one drive pucmm\OneDrive - Pontificia Universidad Católica Madre y Maestra\2do año\2do ciclo\programación de algoritmos\proyecto\Test1 proyecto\obj\Debug\netcoreapp3.1\Test1 proyecto.genruntimeconfig.cache
